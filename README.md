@@ -1,3 +1,10 @@
+<p>Kelmopok 2</p>
+<P>1. khoirul umam(23552011428)</P>
+<p>2. </p>
+<p>3. </p>
+
+
+
 <div align="center">
 
 <h1>Flight Black-Box Motion Recorder</h1>
