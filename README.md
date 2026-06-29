@@ -451,6 +451,12 @@ apabila daya terputus secara tiba-tiba.
 
 <h2>13. Dashboard Web</h2>
 
+<p> Screenshot Dashboard. </p>
+
+<div align="center"> <img src="images/Dashboard.png" alt="Diagram pinout dan rangkaian Flight Black-Box Motion Recorder" width="850" > <br> <sub>Tampilan Dashboard.</sub> </div>
+
+<br>
+
 <p>
 ESP32 menjalankan web server lokal pada port 80. Dashboard dapat dibuka melalui alamat IP
 ESP32 menggunakan laptop atau telepon seluler yang berada pada jaringan Wi-Fi yang sama.
@@ -615,15 +621,13 @@ Hasil kalibrasi disimpan di NVS sehingga tidak perlu dilakukan setiap kali alat 
 </ul>
 
 
-<h2>20. Referensi</h2>
+<h2>20. Link Demo Alat</h2>
 
 <p>
-Konsep awal proyek mengacu pada artikel
-<a href="https://how2electronics.com/flight-black-box-motion-recorder-using-esp32-bmi160/">
+Video Youtube Demo Alat
+<a href="https://youtu.be/0tojoXaa34U">
 Flight Black-Box Motion Recorder System Using ESP32 &amp; BMI160
-</a> dari How2Electronics. Dokumentasi ini telah disesuaikan dengan program yang menggunakan
-Wemos D1 R32 ESP32, OLED, push button, buzzer aktif, microSD, dashboard web, MQTT, dan FreeRTOS.
-</p>
+
 
 <hr>
 
